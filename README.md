@@ -1,5 +1,5 @@
 ## Hi there 👋
-coding repo of [Prateek](https://github.com/prateekkumaryadav).
+Everythig related to coding stuff of [Prateek](https://github.com/prateekkumaryadav).
 <!--
 **prateekkumaryadav2/prateekkumaryadav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
